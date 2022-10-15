@@ -51,7 +51,7 @@ Connect with me:
        
        
   
-  ![Anvitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anvitharr&show_icons=true&theme=radical)
+  ![Anvitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anvitharr&count_private=true)
        
 ### :fire: My Stats :
        

@@ -3,7 +3,6 @@
        
                A passionate coder       
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on To-do-list
 - 🌱 I’m currently learning Computer science and Engineering at AJIET, Manglore

@@ -53,9 +53,6 @@ Connect with me:
        
        
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Anvitharr)](https://git.io/streak-stats)
-       
-       
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anvitharr&langs_count=8)](https://github.com/Anvitharr/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anvitharr&layout=compact)](https://github.com/Anvitharr/github-readme-stats)
        

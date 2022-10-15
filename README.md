@@ -52,6 +52,6 @@ Connect with me:
 ### :fire: My Stats :
        
        
- https://github-readme-streak-stats.herokuapp.com/?user=Anvitharr
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Anvitharr)](https://git.io/streak-stats)
        
   

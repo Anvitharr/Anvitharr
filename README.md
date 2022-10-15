@@ -26,6 +26,8 @@ Connect with me:
   <a href="https://www.instagram.com/_.anvithaa_/">
     <img src="https://img.shields.io/badge/Instagram-Purple Violet?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+ </div>
+   <div id="badges">
       <img src="https://komarev.com/ghpvc/?username=Anvitharr&style=flat-square&color=blue" alt=""/>
 </div>
 

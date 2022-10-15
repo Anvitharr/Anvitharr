@@ -23,6 +23,8 @@ Connect with me:
   </a>
   <a href="https://twitter.com/anvitha_rrao?t=ZxxJxLdHbqC-0cK2IqOwzg&s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.instagram.com/_.anvithaa_/">
+    <img src="https://img.shields.io/badge/Instagram-Purple Violet?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 

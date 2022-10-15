@@ -47,7 +47,8 @@ Connect with me:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
        
-       
+  
+  ![Anvitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anvitharr&show_icons=true&theme=radical)
        
 ### :fire: My Stats :
        

@@ -1,6 +1,6 @@
 ### Hi there 👋 myself Anvitha
        
-       
+               A passionate coder       
 
 Here are some ideas to get you started:
 
@@ -9,3 +9,6 @@ Here are some ideas to get you started:
 - 👨‍💻 All of my projects are available at https://github.com/Anvitharr
 - 💬 Ask me about | C | | C++ | | Java | | python |
 - 📫 How to reach me anvitharao04@gmail.com
+
+
+

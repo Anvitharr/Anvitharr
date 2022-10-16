@@ -48,7 +48,7 @@ Connect with me:
 </div>
        
        
-       
+    
        
   
   ![Anvitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anvitharr&count_private=true)

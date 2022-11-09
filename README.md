@@ -1,7 +1,7 @@
 
 ### Hi there 👋 myself ANVITHA
        
-              ### A passionate coder       
+              A passionate coder       
 
 
 - 🔭 I’m currently working on To-do-list

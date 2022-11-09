@@ -1,5 +1,5 @@
 
-### Hi there 👋 myself Anvitha
+### Hi there 👋 myself ANVITHA
        
                A passionate coder       
 
@@ -11,7 +11,7 @@
 - 📫 How to reach me anvitharao04@gmail.com
 
 
-Connect with me:
+###Connect with me:
 
 
 <div id="badges">

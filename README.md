@@ -11,7 +11,7 @@
 - 📫 How to reach me anvitharao04@gmail.com
 
 
-###Connect with me:
+###  Connect with me:
 
 
 <div id="badges">

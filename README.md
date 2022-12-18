@@ -1,5 +1,5 @@
 
-### Hi there 👋 myself ANVITHA
+### Hi there 👋 myself anvitha
        
               A passionate coder       
 

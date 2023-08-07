@@ -4,10 +4,10 @@
               A passionate coder       
 
 
-- 🔭 I’m currently working on To-do-list
+- 🔭 I’m currently working on HealthCare App
 - 🌱 I’m currently pursuing Computer science and Engineering at AJIET, Manglore
 - 👨‍💻 All of my projects are available at https://github.com/Anvitharr
-- 💬 Ask me about | C | | C++ | | Java | | python |
+- 💬 Ask me about | C | | C++ | | Java | | python | |MySQL| |HTML| |CSS|
 - 📫 How to reach me anvitharao04@gmail.com
 
 
